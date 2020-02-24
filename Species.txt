@@ -1,0 +1,12 @@
+Copper Acetate	181.63	SOLID
+Trimesic Acid	210.14	SOLID
+Ethanol	46.07	0.789
+11-MUA	218.36	SOLID
+4-MBA	154.19	SOLID
+ZincAcetate	183.47	SOLID
+ManganeseAcetate	245.09	SOLID
+SodiumBiCarbonate	84.01	SOLID
+PotassiumCarbonate	138.2	SOLID
+MagnesiumAcetate	214.45	SOLID
+CobaltAcetate	249.08	SOLID
+SodiumChloride	58.44	SOLID
