@@ -1,5 +1,5 @@
 """
-A simple calculator which imports compound data (name, molar mass, density) and can calculate how much is needed to make up desired concentrations
+A simple calculator which imports compound data (name, molar mass, density) and can calculate how much is needed to make up desired concentrations. easy for user to add own compounds.
 """
 
 import glob
